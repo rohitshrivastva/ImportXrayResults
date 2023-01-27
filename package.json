@@ -15,5 +15,6 @@
   "keywords": [
     "cypress",
     "importxrayresults"
-  ]
+  ],
+  "man": "src/index.js"
 }
