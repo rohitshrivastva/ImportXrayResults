@@ -15,5 +15,8 @@
   "keywords": [
     "cypress",
     "importxrayresults"
-  ]
+  ],
+  "devDependencies": {
+    "cypress": "^12.4.1"
+  }
 }

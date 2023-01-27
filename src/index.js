@@ -1,5 +1,5 @@
 const testCommands = () => {
-    console.log('Test cOMMANDS')
+    cy.log('hello world')
 }
 
-Cypress.Commands.add('testCommands', {}, testCommands)
+Cypress.Commands.add('testCommands', testCommands)
