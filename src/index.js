@@ -1,3 +1,3 @@
-Cypress.Commands.add("testCommand", ()=> {
+Cypress.Commands.add('testCommands', () => {
     console.log('Test Commands')
 })
